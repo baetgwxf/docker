@@ -1,0 +1,1 @@
+docker build -t "baetgwxf/tomcat8:v1" .
